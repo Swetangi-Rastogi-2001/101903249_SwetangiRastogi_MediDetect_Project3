@@ -25,15 +25,15 @@ Parkinson’s Disorder or not. The following were the attributes in the given da
 
 <img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.40%20PM.png" width="600" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.44%20PM.png](https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.44%20PM.png" width="600" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.44%20PM.png" width="600" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.49%20PM.png" width="600" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.49%20PM.png" width="600" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.59%20PM.png" width="600" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.52%20PM.png" width="600" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.56%20PM.png" width="600" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.56%20PM.png" width="600" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.52%20PM.png" width="600" height="400" />
+<img src="[https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.49.52%20PM.png](https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.59%20PM.png)" width="600" height="400" />
 
 
 
