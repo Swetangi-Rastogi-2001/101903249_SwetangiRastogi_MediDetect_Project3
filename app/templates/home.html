@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+{% load widget_tweaks %}
+{% block content %}
+
+
+<center>
+    <h2> Enter Data to get Predictions</h2>
+    <br>
+    
+    <form style="width: 60%;" method="POST">
+    {% csrf_token %}
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputEmail4">MDVP FO (Hz)</label>
+        
+        {{form.mdvp_fo_hz|add_class:'form-control'}}
+ 
+      </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">MDVP FHI (Hz)</label>
+        {{form.mdvp_fhi_hz|add_class:'form-control'}}
+
+      </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">MDVP FLO (Hz)</label>
+        {{form.mdvp_flo_hz|add_class:'form-control'}}
+          
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">MDVP JITTER (%)</label>
+          {{form.mdvp_jitter_per|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">MDVP JITTER (Abs)</label>
+          {{form.mdvp_jitter_abs|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">MDVP RAP</label>
+          {{form.mdvp_rap|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">MDVP PPQ</label>
+          {{form.mdvp_ppq|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">JITTER DDP</label>
+          {{form.jitter_ddp|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">MDVP SHIMMER </label>
+          {{form.mdvp_shimmer|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">MDVP SHIMMER db</label>
+          {{form.mdvp_shimmer_db|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">SHIMMER APQ3</label>
+          {{form.shimmer_apq3|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">SHIMMER APQ5</label>
+          {{form.shimmer_apq5|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">SHIMMER DDA</label>
+          {{form.shimmer_dda|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">NHR</label>
+          {{form.nhr|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">HNR</label>
+          {{form.hnr|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">RPDE</label>
+          {{form.rpde|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">DFA</label>
+          {{form.dfa|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">SPREAD 1</label>
+          {{form.spread_1|add_class:'form-control'}}
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">SPREAD 2</label>
+          {{form.spread_2|add_class:'form-control'}}
+
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPassword4">D2</label>
+          {{form.d2|add_class:'form-control'}}
+
+
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="inputEmail4">PPE</label>
+          {{form.ppe|add_class:'form-control'}}
+        </div>
+        <div class="form-group col-md-6">
+            <label for="inputEmail4">MDVP APQ</label>
+            {{form.mdvp_apq|add_class:'form-control'}}
+  
+          </div>
+  
+    </div>
+    <input type="submit" class="btn btn-primary" value="Submit">
+    <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+  </form>
+</center>
+
+
+{% endblock %}
