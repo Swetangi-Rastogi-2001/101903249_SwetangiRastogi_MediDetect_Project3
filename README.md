@@ -1,27 +1,22 @@
 # MediDetect: Parkinsons-Disease Prediction
 
-Parkinson's disease (PD), or simply Parkinson's, is a long-term degenerative disorder of
-the central nervous system that mainly affects the motor system. The symptoms usually emerge
-slowly, and as the disease worsens, non-motor symptoms become more common. The most
-obvious early symptoms are tremor, rigidity, slowness of movement, and difficulty with walking.
-Cognitive and behavioral problems may also occur with depression, anxiety, and apathy occurring
-in many people with PD. The rock sensation Ozzy Osbourne, dubbed as the God of Boxing, Mohd.
-Ali were among few renowned personalities who have contracted this disorder.
-Mostly, it goes un-noticed or is misdiagnosed as some other disorder due to which it often leads
-to the patient finding himself in a fatal condition. Hence, I have deployed a model which shall take
-attributes from the user and shall predict if they have contracted the disorder or not.
+## 1. Introduction and Description
 
-## Dataset
+Parkinson's disease is a progressive neurological disorder that affects the central nervous system, particularly the motor system. Its most common early symptoms are tremors, stiffness, slow movement, and difficulty walking. As the disease progresses, non-motor symptoms such as cognitive and behavioral changes, depression, anxiety, and apathy may also develop.
 
-The dataset provided to me has 22 attributes which shall be taken as input from the user. Using
-our prediction model over the provided inputs, we are going to predict whether the person has
-Parkinson’s Disorder or not. The following were the attributes in the given dataset.
+Famous people who have been diagnosed with Parkinson's disease include Ozzy Osbourne and Muhammad Ali.
+
+Early detection and diagnosis of Parkinson's disease can be difficult because its symptoms can be similar to those of other conditions. This can lead to misdiagnosis and worsening of the condition. By providing a model that can predict Parkinson's disease based on user-provided attributes, we hope to improve the chances of early detection and effective treatment.
+
+## 2. Dataset Used
+
+The given dataset has 22 attributes, which will be used as input by the user. Our prediction model will then analyze these inputs to predict whether the person has Parkinson's Disorder or not.
 
 
 <img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.56.13%20PM.png" width="600" height="400" />
 
 
-## Graphical Depiction of the attributes
+## 3. Graphical Depiction of the attributes
 
 <img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.49.40%20PM.png" width="600" height="400" />
 
@@ -38,7 +33,7 @@ Parkinson’s Disorder or not. The following were the attributes in the given da
 
 
 
-## Models Used:
+## 4. Models Used:
 
 • Decision Tree Classifier
 
@@ -64,16 +59,19 @@ Parkinson’s Disorder or not. The following were the attributes in the given da
 
 <img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.49%20PM.png" width="500" height="600" />
 
-## Approach:
-During the very first phase of the model, I cleaned the data and made it more sensible in numeric form, i.e. converted all the categorical data to numerical data and removed the NULL and missing values.
-In the Second Phase, I did some visualizations over the given dataset which gave me a great view and hints for the implementation of the model.
-In the third phase, I implemented various methods over the given dataset, the ones I had mentioned previously. The model gave prediction taking each and every model into consideration and then took out the average value of all the models result and then gave the result which were based on the provided input by the user.
-In the final phase, I developed the UI for the model and then linked my model with the created UI for to make it ready for deployment in Django.
+## 5. Methodology:
+
+In the first phase of developing the model, the data was cleaned and converted into a numerical format. This involved converting any categorical data and removing any null or missing values.
+
+In the second phase, visualizations were created to better understand the dataset and provide insights for implementing the model.
+
+In the third phase, a variety of methods were applied to the dataset to make predictions. These predictions were then averaged to produce a final result, based on the input provided by the user.
+
+In the final phase, a user interface was developed and linked to the prediction model, allowing it to be deployed in Django.
 
 
-## Screenshots
+## 6. Screenshots
 ### User Interface:
-
 
 
 <img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.41%20PM.png" width="500" height="400" />
@@ -85,12 +83,12 @@ In the final phase, I developed the UI for the model and then linked my model wi
 <img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.49%20PM.png" width="500" height="400" />
 
 
-## Link
+## 7. Link
 http://parkinsonsdisease.pythonanywhere.com/
 
-## Future Scope
+## 8. Future Scope
 
-It is quiet a revealing fact that almost 70% cases of Parkinson’s disease either go un-noticed or are misdiagnosed. These happen due to lack of proper knowledge and improper ways of detecting the disorder. Because of rapid increase in the number of cases in the youth, it has become of utmost importance to develop a model so that a person can get his diagnosis within minutes after providing input to the model. Our model provides the same kind response that the user desires. He/She can directly get the results within minutes, hence saving them from some misdiagnosis and some visits to the doctor for the same.
+It is a concerning fact that approximately 70% of cases of Parkinson's disease go unnoticed or are misdiagnosed. This is often due to a lack of knowledge about the disease and inadequate methods for detecting it. As the number of cases in younger people increases, it is becoming increasingly important to develop models that can quickly and accurately diagnose Parkinson's disease. Our model provides fast and reliable results, allowing users to obtain a diagnosis within minutes of inputting their information. This can help avoid misdiagnosis and unnecessary visits to the doctor.
 
 
 
