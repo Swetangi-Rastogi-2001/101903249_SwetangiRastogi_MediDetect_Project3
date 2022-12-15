@@ -70,7 +70,9 @@ In the Second Phase, I did some visualizations over the given dataset which gave
 In the third phase, I implemented various methods over the given dataset, the ones I had mentioned previously. The model gave prediction taking each and every model into consideration and then took out the average value of all the models result and then gave the result which were based on the provided input by the user.
 In the final phase, I developed the UI for the model and then linked my model with the created UI for to make it ready for deployment in Django.
 
-## User Interface:
+
+## Screenshots
+### User Interface:
 
 
 
@@ -79,11 +81,12 @@ In the final phase, I developed the UI for the model and then linked my model wi
 <img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.45%20PM.png" width="500" height="400" />
 
 
-## Output Screen
+### Output Screen
 <img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.49%20PM.png" width="500" height="400" />
 
 
-
+## Link
+http://parkinsonsdisease.pythonanywhere.com/
 
 ## Future Scope
 
