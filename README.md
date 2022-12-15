@@ -84,7 +84,7 @@ In the final phase, a user interface was developed and linked to the prediction 
 
 
 ## 7. Link
-http://parkinsonsdisease.pythonanywhere.com/
+https://tinyurl.com/MediDetect-by-swetangi
 
 ## 8. Future Scope
 
