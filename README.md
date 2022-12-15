@@ -13,7 +13,7 @@ Early detection and diagnosis of Parkinson's disease can be difficult because it
 The given dataset has 22 attributes, which will be used as input by the user. Our prediction model will then analyze these inputs to predict whether the person has Parkinson's Disorder or not.
 
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.56.13%20PM.png" width="600" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.56.13%20PM.png" width="600" height="400" />
 
 
 ## 3. Graphical Depiction of the attributes
@@ -37,27 +37,27 @@ The given dataset has 22 attributes, which will be used as input by the user. Ou
 
 • Decision Tree Classifier
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.04%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.07%20PM.png" width="500" height="600" />
 
 • Logistic Regression
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.18%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.13%20PM.png" width="500" height="600" />
 
 • Random Forest Classifier
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.23%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.18%20PM.png" width="500" height="600" />
 
 • K-Neighbor Classifier
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.31%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.24%20PM.png" width="500" height="600" />
 
 • SVC
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.37%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.29%20PM.png" width="500" height="600" />
 
 • Multinomial NB
 
-<img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.23.49%20PM.png" width="500" height="600" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.34%20PM.png" width="500" height="600" />
 
 ## 5. Methodology:
 
@@ -74,13 +74,13 @@ In the final phase, a user interface was developed and linked to the prediction 
 ### User Interface:
 
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.41%20PM.png" width="500" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.41%20PM.png" width="500" height="400" />
 
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.45%20PM.png" width="500" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.45%20PM.png" width="500" height="400" />
 
 
 ### Output Screen
-<img src="https://github.com/2000utkarsh/Parkinsons-Disease/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.50.49%20PM.png" width="500" height="400" />
+<img src="https://github.com/Swetangi-Rastogi-2001/101903249_SwetangiRastogi_MediDetect_Project2/blob/main/app/imgs/Screenshot%202021-09-20%20at%208.50.49%20PM.png" width="500" height="400" />
 
 
 ## 7. Link
